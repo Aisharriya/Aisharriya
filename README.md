@@ -1,5 +1,5 @@
 
-
+![logo](https://github.com/Aisharriya/Aisharriya/blob/main/Add%20a%20heading.png)
 <h1 align="center">Hi 👋, I'm Aisharriya Dasgupta</h1>
 <h3 align="center">A passionate Data Analyst and Economic Researcher</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
