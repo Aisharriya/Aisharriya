@@ -1,9 +1,10 @@
+
+
 <h1 align="center">Hi 👋, I'm Aisharriya Dasgupta</h1>
 <h3 align="center">A passionate Data Analyst and Economic Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aisharriya&label=Profile%20views&color=0e75b6&style=flat" alt="aisharriya" /> </p>
 
-- 🌱 I’m currently learning **Economics and Data Analytics**
 <p align="center">
   
   <a href="mailto:aisha29050202@gmail.com" style="text-decoration:none">
