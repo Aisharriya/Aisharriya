@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm Aisharriya Dasgupta</h1>
+<h3 align="center">A passionate Data Analyst and Economic Researcher</h3>
 
 <p align="center">
   
