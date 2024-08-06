@@ -1,4 +1,5 @@
-
+<!-- ![Frame 38](https://user-images.githubusercontent.com/63140632/136663757-a09c273b-c185-4bf8-a392-01e3e5fc9a67.png) -->
+![Frame 38](https://user-images.githubusercontent.com/63140632/221672830-16bf4ce0-e162-46dc-8a58-7590025bccd4.svg)
 ![logo](https://github.com/Aisharriya/Aisharriya/blob/main/Add%20a%20heading.png)
 <h1 align="center">Hi 👋, I'm Aisharriya Dasgupta</h1>
 <h3 align="center">A passionate Data Analyst and Economic Researcher</h3>
