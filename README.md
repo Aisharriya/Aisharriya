@@ -9,9 +9,9 @@
   
   <a href="mailto:aisha29050202@gmail.com" style="text-decoration:none">
     <img height="50" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  </a> 
   
-  <a href=[https://drive.google.com/file/d/1iDz93djb_g8bu-1Mzv8tyUUmcdE7Hcrd/view?usp=drivesdk]"(https://drive.google.com/file/d/1iDz93djb_g8bu-1Mzv8tyUUmcdE7Hcrd/view?usp=drivesdk)" style="text-decoration:none">
+  <a href="https://drive.google.com/file/d/1iDz93djb_g8bu-1Mzv8tyUUmcdE7Hcrd/view?usp=drivesdk" style="text-decoration:none">
     <img height="50" src="https://img.shields.io/badge/resume-fbf5e9.svg?&style=for-the-badge&logo=readthedocs&logoColor=black" />
   </a>
   
