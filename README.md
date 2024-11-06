@@ -33,33 +33,11 @@
 
 
 
+I am a dedicated Data Analytics student with a passion for uncovering insights from complex datasets. I specialize in using 
+statistical methods and data visualization techniques to drive informed decision making. I have hands-on experience in tools 
+such as Python, R, SQL,Stata and Tableau and aim to contribute to impactful projects and develop my expertise in the field 
+of analytics.
 
-
-
-
-
-
-Hi there! I'm passionate about data analytics and love to work on projects that derive insights from data. Below are some of my key projects.
-
-
-
-
-
-Projects
-
-
-[Sales Data Analysis](https://github.com/your-username/sales-data-analysis)
-An in-depth analysis of sales data to identify trends, patterns, and insights to drive business decisions.
-
-
-
-[Customer Segmentation](https://github.com/your-username/customer-segmentation)
-A machine learning project to segment customers based on their purchasing behavior using clustering techniques.
-
-
-
-[Economic Forecasting](https://github.com/your-username/economic-forecasting)
-Forecasting economic indicators using time series analysis and predictive modeling.
 
 
 
